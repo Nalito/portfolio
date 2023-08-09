@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Shoe Classification Model",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Using Tensorflow and Flask, I built and deployed a deep learning model that can prredict the type of shoe that is contained in an image.",
+    url: "https://github.com/Nalito/Shoe-Recognition-model-using-transfer-learning",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Food Recommender Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have built and deployed a recommender model that can recommend a similar meal for you based on the training dataset.",
+    url: "https://web-production-b18b.up.railway.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Next Word Prediction Model",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I have developed a machine learning model that predicts the next word in a sentence.",
+    url: "https://github.com/Nalito/Next-Word-Prediction",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Real-time smile detection project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I implemented python's Open CV module to build a program that predict whether or not a person is smiling in a video.",
+    url: "https://github.com/Nalito/Smile-Detector-with-Open-CV",
   },
 ];
 
